@@ -1,1 +1,1 @@
-FROM harbor.io/goharbor/harbor-core:v2.4.1
+FROM docker.io/goharbor/harbor-core:v2.4.1
