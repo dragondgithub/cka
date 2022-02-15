@@ -1,1 +1,1 @@
-FROM docker.io/goharbor/redis-photon:v2.4.1
+FROM k8s.gcr.io/metrics-server/metrics-server:v0.6.1
